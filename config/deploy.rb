@@ -1,5 +1,5 @@
 set :application, "running.ayerhart.party"
-set :repo_url, "git@example.com:me/my_repo.git"
+set :repo_url, 'git@github.com:steveerhart/running.ayerhart.party.git'
 
 set :format, :pretty
 set :pty, true
