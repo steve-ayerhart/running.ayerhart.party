@@ -40,6 +40,7 @@ DEPENDENCIES
   capistrano (~> 3.6)
   capistrano-bundler (~> 1.2)
   capistrano-passenger
+  rack
   rake
   sinatra
   sqlite3
