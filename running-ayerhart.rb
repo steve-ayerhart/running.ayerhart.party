@@ -1,5 +1,7 @@
 require 'sinatra'
 
-get '/' do
-  'sup'
+class RunningAyerhartParty < Sinatra::Base
+  get '/' do
+    'sup'
+  end
 end
